@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Kaveeshasithum" target="_blank">Cyber X Team</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Sa-vage" target="_blank">🅟︎🅞︎🅛︎🅐︎🅡︎</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
@@ -30,12 +30,12 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 ## ```Bot Support Groups```
 
 - 
-- [`1nd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
+- [`1nd GC`](+254112976931)
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARKNERO--V7/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Sa-vage/darkneromd/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)

@@ -30,7 +30,7 @@ Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https:
 ## ```Bot Support Groups```
 
 - 
-- [`1nd GC`](+254112976931)
+- [`1nd GC`](https://chat.whatsapp.com/K9zAOUfEmGVF8XwXVK46Jz)
 
 
 # Setup For Deployment 👇

@@ -2,7 +2,7 @@
 
 <h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V7⚜️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg" alt="animated" width="540" height="280" />
+<img src="https://i.pinimg.com/736x/1f/ea/b7/1feab7de643730d56586a82922520ab1.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
